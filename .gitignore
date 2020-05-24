@@ -1,0 +1,8 @@
+# =====python====
+/__pycache__/
+
+# =====OSX======
+.DS_Store
+
+# ====chche=====
+.*cache
