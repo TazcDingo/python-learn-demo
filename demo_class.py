@@ -1,7 +1,7 @@
 """This is a demo of class"""
 import sys
 import traceback
-
+import selenium
 
 class Demo:
     """This is a class"""
@@ -113,5 +113,5 @@ def test_add():
 
 
 if __name__ == "__main__":
-    single_demo()
-    # product_demo()
+    # single_demo()
+    product_demo()
