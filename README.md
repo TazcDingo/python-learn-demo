@@ -6,3 +6,5 @@
 - str
 - list
 - class
+- gdal
+- numpy
